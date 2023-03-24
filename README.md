@@ -1,1 +1,1 @@
-# cmake_project_template
+# CMake template for RayLib apps for macs with m1
